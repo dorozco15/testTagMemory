@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\dorozco\Desktop\testTagMemory\simulation\qsim
+vTagMemory
+Z1 ILEkWH7Pn2eK<F66bO2<ni0
+Z2 VMGM=WmPDVaf:Sh>QdK63R0
+Z3 dC:\Users\dorozco\Desktop\testTagMemory\simulation\qsim
+Z4 w1458409441
+Z5 8TagMemory.vo
+Z6 FTagMemory.vo
+L0 32
+Z7 OV;L;10.1e;51
+r1
+31
+Z8 !s90 -work|work|TagMemory.vo|
+Z9 o-work work -O0
+Z10 n@tag@memory
+!i10b 1
+Z11 !s100 zL268eFzBFjzhTaoz]XQO0
+!s85 0
+Z12 !s108 1458409442.164000
+Z13 !s107 TagMemory.vo|
+!s101 -O0
+vTagMemory_vlg_check_tst
+!i10b 1
+Z14 !s100 FBkBz7J@XjmbH3?VBSnf93
+Z15 I18_InI`3X^0d_eS[Okd=g2
+Z16 VYLoC`8=i04b;Y<dZN;:ej1
+R3
+Z17 w1458409439
+Z18 8TagMemorySim.vwf.vt
+Z19 FTagMemorySim.vwf.vt
+L0 70
+R7
+r1
+!s85 0
+31
+Z20 !s108 1458409442.579000
+Z21 !s107 TagMemorySim.vwf.vt|
+Z22 !s90 -work|work|TagMemorySim.vwf.vt|
+!s101 -O0
+R9
+Z23 n@tag@memory_vlg_check_tst
+vTagMemory_vlg_sample_tst
+!i10b 1
+Z24 !s100 jABTNXkWhfmX?L^91l8bZ1
+Z25 IBR0fS?E_V306VK2T?AR?B3
+Z26 Vb<bInDe>I6dXe:A>75UzE1
+R3
+R17
+R18
+R19
+L0 30
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z27 n@tag@memory_vlg_sample_tst
+vTagMemory_vlg_vec_tst
+!i10b 1
+Z28 !s100 I3WlSWP8;<2mB_Tn5VhP90
+Z29 IEEI3GdkOd085]hbf5?e=O3
+Z30 VoIF@2=A4^I^^kPS?nbF3c2
+R3
+R17
+R18
+R19
+Z31 L0 165
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z32 n@tag@memory_vlg_vec_tst

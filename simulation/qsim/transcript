@@ -1,0 +1,37 @@
+# do TagMemory.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module TagMemory
+# 
+# Top level modules:
+# 	TagMemory
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module TagMemory_vlg_sample_tst
+# -- Compiling module TagMemory_vlg_check_tst
+# -- Compiling module TagMemory_vlg_vec_tst
+# 
+# Top level modules:
+# 	TagMemory_vlg_vec_tst
+# vsim -L cycloneive_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver -c -voptargs=\"+acc\" -t 1ps -novopt work.TagMemory_vlg_vec_tst 
+# Loading work.TagMemory_vlg_vec_tst
+# Loading work.TagMemory
+# Loading cycloneive_ver.cycloneive_io_obuf
+# Loading cycloneive_ver.cycloneive_io_ibuf
+# Loading cycloneive_ver.cycloneive_clkctrl
+# Loading cycloneive_ver.cycloneive_mux41
+# Loading cycloneive_ver.cycloneive_ena_reg
+# Loading cycloneive_ver.cycloneive_lcell_comb
+# Loading altera_ver.dffeas
+# Loading work.TagMemory_vlg_sample_tst
+# Loading work.TagMemory_vlg_check_tst
+# SDF 10.1e Compiler 2013.06 Jun 12 2013
+# 
+# Loading instances from TagMemory_v.sdo
+# Loading altera_ver.PRIM_GDFF_LOW
+# Loading timing data from TagMemory_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /TagMemory_vlg_vec_tst File: TagMemorySim.vwf.vt
+# Simulation passed !
+# ** Note: $finish    : TagMemorySim.vwf.vt(161)
+#    Time: 1 us  Iteration: 0  Instance: /TagMemory_vlg_vec_tst/tb_out
